@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at BemyVega
+- 🔭 I’m currently working at Inclusif
 - 🌱 I’m currently learning backend developing
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - :es: I currently live in Murcia, Spain. 
 
-- :hammer_and_wrench: At the time I'm developing the API and the Frontend of the BemyVega's streaming platform.
+- :hammer_and_wrench: At the time I'm working at Inclusif.
 
 - :neckbeard: I love programming and improving my code by learning from better and more experienced developers. I like trying every new technology attached to web programming and new promising javascript frameworks or programming languages such as Svelte and Go.
 
